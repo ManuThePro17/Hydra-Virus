@@ -47,7 +47,7 @@ Partial Class mainForm
         Me.author.Name = "author"
         Me.author.Size = New System.Drawing.Size(313, 25)
         Me.author.TabIndex = 1
-        Me.author.Text = "Author: Nguyen Hoang Gia Bao"
+        Me.author.Text = ""
         Me.author.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'logo
